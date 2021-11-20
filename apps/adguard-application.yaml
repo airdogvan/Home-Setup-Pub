@@ -34,7 +34,7 @@ spec:
 #          value: 120Mi
       valueFiles:
         - values.yaml
-    repoURL: https://homeenterpriseinc.github.io/helm-charts/
+    repoURL: https://github.com/airdogvan/Home-Setup-Pub/blob/main/apps/adguard-application.yaml
     targetRevision: "0.1"
   syncPolicy:
     automated:
